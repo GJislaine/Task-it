@@ -1,0 +1,1 @@
+La réalisation de ce projet a été dans le cadre d'un module en développement mobile. J'ai développé une application sur AndroidStudio pour gérer les taches et les évenements. Il est possible de créer des rapppels ou des alertrs, pour noter les évenements important à ne pas oublier avec une deathline.
